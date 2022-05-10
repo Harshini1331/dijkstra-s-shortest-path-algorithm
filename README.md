@@ -210,8 +210,8 @@ print("Total Distance={0} Kilometers".format(goal_state_path.path_cost))
 ## OUTPUT:
 <img width="747" alt="image" src="https://user-images.githubusercontent.com/75235554/167612310-0dc73155-b56d-46c2-ab8e-caf72c1bbb15.png">
 
-
-Justify that the algorithm always returns the shortest path:
+## SOLUTION JUSTIFICATION:
+Dijkstra’s Algorithm is an algorithm for finding the shortest paths between nodes in a graph. For a given source node in the graph, the algorithm finds the shortest path between that node and every other node.
 
 ## RESULT:
 Thus a code was developed to find the shortest route from the source to the destination point using Dijkstra's shortest path algorithm.
